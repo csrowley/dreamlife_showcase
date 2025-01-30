@@ -1,8 +1,6 @@
-# DreamLife 🌟
+# DreamLife - Goal Tracking & Roadmapping App 🌟
 
 Transform your dreams into reality through intelligent goal setting and visual roadmapping.
-
-# DreamLife - Goal Tracking & Roadmapping App
 
 ![App Store Badge](https://img.shields.io/badge/Download-App%20Store-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-iOS-lightgrey.svg)
